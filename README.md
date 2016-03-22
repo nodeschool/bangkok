@@ -8,7 +8,7 @@ Nodeschool Bangkok is just getting started so please get in contact if you would
 
 ## Talk to us
 
-We utilize [GitHub Issues](https://github.com/nodeschool/bangkok/issues) like a message board and keep almost all of our communication in the open. Feel free to create new issues to make suggestions on how NodeSchool Bangkok can improve and grow.
+We utilise [GitHub Issues](https://github.com/nodeschool/bangkok/issues) like a message board and keep almost all of our communication in the open. Feel free to create new issues to make suggestions on how NodeSchool Bangkok can improve and grow.
 
 -----
 
@@ -21,3 +21,5 @@ We utilize [GitHub Issues](https://github.com/nodeschool/bangkok/issues) like a 
 If you would like to help by mentoring or contribute with us then please get in touch, your most welcome.
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/bangkok)
+
+[Facebook](https://www.facebook.com/groups/NodeSchoolBangkok/)

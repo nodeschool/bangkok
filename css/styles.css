@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -9,21 +9,42 @@ body {
   font-size: 100%;
   background-color: #e1a200;
   background-image: url("../img/black-thread.png");
+  font-family: 'Roboto', sans-serif;
 }
 
 a, a:focus, a:hover {
   color: #fff;
+  background-color: transparent;
 }
 
-.btn-default, .btn-default:hover, .btn-default:focus {
-  color: #333;
-  text-shadow: none;
-  background-color: #fff;
-  border: 1px solid #fff;
+.navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:active {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto Slab', serif;
+  padding: .05em 0;
 }
 
 p, ul {
   text-align: left;
+}
+
+p {
+  font-size: 1.2em;
+  padding: 1.4em;
+}
+
+span.lead {
+  display: block;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 20px;
 }
 
 section {

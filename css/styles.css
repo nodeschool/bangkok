@@ -10,6 +10,7 @@ body {
   background-color: #e1a200;
   background-image: url("../img/black-thread.png");
   font-family: 'Roboto', sans-serif;
+  padding-top: 65px;
 }
 
 a, a:focus, a:hover {

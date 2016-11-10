@@ -14,7 +14,7 @@ We utilise [GitHub Issues](https://github.com/nodeschool/bangkok/issues) like a 
 
 ## Team
 
- - Se&aacute;n Behan ([Twitter](https://twitter.com/jjmax75/), [Email](mailto:sean@boxitoff.com) and @jjmax75)
+ - John Behan ([Twitter](https://twitter.com/jjmax75/), [Email](mailto:sean@boxitoff.com) and @jjmax75)
 
 ## Contact
 
